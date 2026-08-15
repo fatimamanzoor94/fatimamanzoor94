@@ -16,6 +16,12 @@ I'm a Software Engineering student and aspiring Full-Stack Developer passionate 
 - 🤝 Open to collaborating on web development and software projects
 - 📚 Committed to continuous learning and professional growth
 
+  <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🌐 Socials:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/fatimamanzoor7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatimamanzoorfati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatimamanzoor949@gmail.com)
