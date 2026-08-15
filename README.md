@@ -3,7 +3,7 @@
 
 I'm a Software Engineering student and aspiring Full-Stack Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical digital solutions while continuously strengthening my development, problem-solving, and UI design skills.
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 🎓 Pursuing Higher Diploma in Software Engineering (HDSE) at Aptech
 💻 Focused on Front-End Development and ASP.NET Development
 🚀 Building real-world web applications using modern technologies
