@@ -1,23 +1,17 @@
 👋 Hi, I'm Fatima Manzoor
 💻 Software Engineering Student | Front-End Developer | ASP.NET Developer
 
-I'm a passionate Software Engineering student and aspiring Full-Stack Developer who enjoys building modern, responsive, and user-friendly web applications.
-
-🎓 Currently pursuing Higher Diploma in Software Engineering (HDSE) at Aptech
-💻 Interested in Front-End Development & ASP.NET Development
-🌱 Currently improving my skills in C#, ASP.NET MVC, React.js, JavaScript & SQL Server
-🚀 Passionate about turning ideas into functional and visually appealing web applications
-🎨 I also have a background in Graphic Design and UI Design
+I'm a Software Engineering student and aspiring Full-Stack Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into practical digital solutions while continuously improving my development and problem-solving skills.
 
 👩‍💻 About Me
-🔭 I'm currently working on Full-Stack Web Applications
-🌱 I'm currently learning and improving my skills in ASP.NET MVC, C#, React.js and SQL Server
-💡 I enjoy creating responsive and user-friendly interfaces
-🤝 I'm open to collaborating on Web Development Projects
-💬 Ask me about HTML, CSS, JavaScript, Bootstrap, ASP.NET MVC, C#, SQL Server and PHP
-🎨 I also work with Figma, Photoshop and Canva
-📚 I'm continuously learning new technologies and improving my development skills
-⚡ Fun fact: I enjoy transforming ideas into real-world applications through code
+🎓 Pursuing Higher Diploma in Software Engineering (HDSE) at Aptech
+💻 Focused on Front-End Development and ASP.NET Development
+🚀 Building real-world web applications using modern development technologies
+🌱 Continuously improving my skills in C#, ASP.NET MVC, JavaScript, React.js, and SQL Server
+🎨 Experienced in UI Design and Graphic Design
+💡 Passionate about creating clean, responsive, and user-friendly interfaces
+🤝 Open to collaborating on web development and software projects
+📚 Always learning new technologies and improving my coding and problem-solving abilities
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/fatimamanzoor7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatimamanzoorfati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatimamanzoor949@gmail.com) 
