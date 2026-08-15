@@ -6,7 +6,8 @@ I'm a Software Engineering student and aspiring Full-Stack Developer passionate 
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing Higher Diploma in Software Engineering (HDSE) at Aptech
+- 🎓 Pursuing Advanced Diploma in Software Engineering (ADSE) at Aptech
+- 🎓 Pursuing Bachelor of Science in Computer Science (BSCS) at Virtual University of Pakistan
 - 💻 Focused on Front-End Development and ASP.NET Development
 - 🚀 Building real-world web applications using modern technologies
 - 🌱 Continuously improving my skills in C#, ASP.NET MVC, JavaScript, React.js, and SQL Server
