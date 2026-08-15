@@ -1,4 +1,4 @@
-👋 Hi, I'm Fatima Manzoor
+## 👋 Hi, I'm Fatima Manzoor
 💻 Software Engineering Student | Front-End Developer | ASP.NET Developer
 
 I'm a Software Engineering student and aspiring Full-Stack Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical digital solutions while continuously strengthening my development, problem-solving, and UI design skills.
