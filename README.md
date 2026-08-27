@@ -31,6 +31,12 @@ I'm **Fatima Manzoor**, a Software Engineering student and aspiring Full-Stack D
 
 ---
 
+  <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 💻 What I Do
 
 <table>
